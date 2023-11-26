@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration From of Premier University</title>
+</head>
+
+<body bgcolor="ghostwhite">
+    <section>
+        <fieldset>
+            <div>
+                
+                <center <h1>
+                    <font size="7"><b>PREMIER UNIVERSITY</b></font>
+                    </h1>
+                </center>
+                <center>
+                    <font size="2"> Center of Excellance of Quality learning </font>
+                </center>
+                <img src="puc_logo.png" alt="" height="150" width="150">
+                <img src="puc_logo.png" alt="" height="150" width="150" align="right"><br><br>
+
+                <hr width="100%" size="2px" color="red">
+                <marquee bgcolor = "azure" conmouseover="this star();" conmouseover="this end();" scrollamount="&nbsp;" behavior=""
+                    direction="">
+                    <font face="Open Sans" size="5" color="red">
+                        Notice : Addmission will be head on 21<sup>th</sup> December </font>
+                </marquee>
+                <hr width="100%" size="2px" color="red">
+                <center>
+                    <br>
+                    <h1>
+                        <font size="5"><b>Addmission Form </b></font>
+                    </h1>
+                    
+                </center>
+            </div>
+            <div>
+                <fieldset>
+                    <legend>Student Details</legend>
+                    <form action="">
+                        <table width = "100%"><tr><td>
+
+                        
+
+                        <table width="85%" cellpadding="15px" align="center" >
+                            <tr>
+                                <td>
+                                    <font size "3"> First Name:</font>
+                                <td>
+                                <td>
+                                    <input type="text" placeholder="Enter Firt Name">
+                                </td>
+                                <td>
+                                    <font size "3"> Last Name:</font>
+                                <td>
+                                <td>
+                                    <input type="text" placeholder="Enter Last Name">
+                                </td>
+
+                            </tr>
+                            <tr>
+                                <td>
+                                    <font size "3"> Father Name:</font>
+                                <td>
+                                <td>
+                                    <input type="text" placeholder="Father Name">
+                                </td>
+                                <td>
+                                    <font size "3"> Mother Name:</font>
+                                <td>
+                                <td>
+                                    <input type="text" placeholder="Mother Name">
+                                </td>
+
+                            </tr>
+                            <tr>
+                                <td>
+                                    <font size "3"> Postal Address:</font>
+                                <td>
+                                <td>
+                                    <input type="text" placeholder="">
+                                </td>
+
+                            </tr>
+                            <tr>
+                                <td>
+                                    <font size "3"> Present Address:</font>
+                                <td>
+                                <td>
+                                    <input type="text" placeholder="">
+                                </td>
+
+                            </tr>
+                            <tr>
+                                <td>
+                                    <font size "3"> Gender:</font>
+                                <td>
+                                <td>
+                                    <input type="radio" name="Gender" value="male">
+                                    <font size="3">Male</font>
+                                </td>
+
+                                <td>
+                                    <input type="radio" name="Gender" value="Female">
+                                    <font size="3">female</font>
+                                </td>
+
+                            </tr>
+                            <tr>
+                                <td colspan="2">
+                                    <font size "3"> Course:</font>
+                                </td>
+                                <td colspan="2">
+                                    <select name="Course">
+                                        <option value="Course"><b>CSE</b></option>
+                                        <option value="Course"><b>EEE</b></option>
+                                        <option value="Course"><b>Civil Engineering</b></option>
+                                        <option value="Course"><b>English</b></option>
+                                        <option value="Course"><b>Economics</b></option>
+                                        <option value="Course"><b>Law</b></option>
+                                    </select>
+                                </td>
+                                
+                            </tr>
+                            <tr>
+                                <td colspan="2">
+                                    <font size "3"> District:</font>
+                                </td>
+                                <td colspan="2">
+                                    <select name="Districk">
+                                        <option value="Course"><b>Chittagong</b></option>
+                                        <option value="Course"><b>Dhaka</b></option>
+                                        <option value=""><b>Ranpur</b></option>
+                                        <option value="Course"><b>Sylet</b></option>
+                                        <option value="Course"><b>Rajshahi</b></option>
+                                        <option value="Course"><b>Rangamati</b></option>
+                                    </select>
+                                </td>
+                                
+                            </tr>
+                            <tr>
+                                <td colspan="2">
+                                    <font>Date of Birth:</font>
+                                </td>
+                                <td colspan="2">
+                                    <input type="date" value = "date" placeholder="DD/MM/YYYY">
+                                    
+                                </td>
+
+                            </tr>
+                            <tr>
+                                <td colspan="2">
+                                    <font>Email address:</font>
+                                </td>
+                                <td colspan="2">
+                                    <input type="email" value = "" placeholder="Email Address">
+                                    
+                                </td>
+
+                            </tr>
+                            <tr>
+                                <td colspan="2">
+                                    <font>Mobile No:</font>
+                                </td>
+                                <td colspan="2">
+                                    <input type="number" value = "email" placeholder="">
+                                    
+                                </td>
+
+                            </tr>
+                            <tr>
+                                <td colspan="2">
+                                    <font>12<sup>th</sup> Certificate:</font>
+                                </td>
+                                <td colspan="2">
+                                   <input type="file" name="" id="">
+                                    
+                                </td>
+
+                            </tr>
+                            <br><br>
+
+                        </table>
+                    </td></tr></table>
+                    </form>
+                   
+                </fieldset>
+            </div>
+            <div>
+                <br><br>
+                <hr width="100%" size="2px" color="red">
+                <font size = "5"><b>Declaretion :</b></font>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum fuga accusamus sequi, dolor alias molestiae, </p><br>
+                <input type="checkbox" name="" id=""><font size"3">I agree</font>
+                <hr width="100%" color="red" size="2px">
+                
+            </div>
+             <br>
+            <div width = "center">
+                <table width = "100%" >
+                <tr align="center">
+                    <td align="right"  >
+                        <input type="reset" name="Reset" id="" >
+                    </td>
+                    <td align="left">
+                         <input type="submit" name="Submit">
+                    </td>
+                </tr>
+            </table>
+            <br><br>
+                
+            </div>
+            
+
+
+        </fieldset>
+    </section>
+</body>
+
+</html>
