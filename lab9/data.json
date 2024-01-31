@@ -1,0 +1,20 @@
+[
+    {
+        "name" : "John",
+        "age"  : 30 ,
+        "address" : "Dhaka"
+
+    },
+    {
+        "name" : "John",
+        "age"  : 30 ,
+        "address" : "Khulna"
+
+    },
+    {
+        "name" : "Alex",
+        "age"  : 34 ,
+        "address" : "Chattogram"
+
+    }
+]
